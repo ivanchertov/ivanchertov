@@ -12,8 +12,6 @@ where I am gaining hands-on skills in real-world projects.
 - Strong communication skills 🗣️
 - A passion for problem-solving 🧩
 - Always motivated to learn new technologies 🔧
-
-**`🌐 Languages:`**
 - Fluent in: 🇩🇪 German | 🇬🇧 English | 🇷🇺 Russian
 - Beginner in: 🇺🇦 Ukrainian
 
@@ -42,7 +40,6 @@ src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11e
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Google_Sheets_2020_Logo.svg/800px-Google_Sheets_2020_Logo.svg.png"/>
 <img align="left" alt="java" width="40px" style="padding right: 30px;"
 src="https://mix-ready.com/cdn/shop/collections/Studio-One-Icon_1200x1200.png?v=1651330074" />
-<br><br><br>
 <img align="left" alt="java" width="30px" style="padding right: 30px;"
 src="https://upload.wikimedia.org/wikipedia/de/2/28/ProTools_Logo.png"/>
 <img align="left" alt="java" width="30px" style="padding right: 30px;"
@@ -54,7 +51,6 @@ src="https://www.citypng.com/public/uploads/preview/adobe-photoshop-white-square
 <br>
 #
 **`I am always open to new challenges and excited to keep expanding my skill set!`**
-#
 
 
 <!--
