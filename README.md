@@ -40,13 +40,13 @@ src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11e
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Google_Sheets_2020_Logo.svg/800px-Google_Sheets_2020_Logo.svg.png"/>
 <img align="left" alt="java" width="40px" style="padding right: 30px;"
 src="https://mix-ready.com/cdn/shop/collections/Studio-One-Icon_1200x1200.png?v=1651330074" />
-<img align="left" alt="java" width="30px" style="padding right: 30px;"
+<img align="left" alt="java" width="20px" style="padding right: 30px;"
 src="https://upload.wikimedia.org/wikipedia/de/2/28/ProTools_Logo.png"/>
-<img align="left" alt="java" width="30px" style="padding right: 30px;"
+<img align="left" alt="java" width="20px" style="padding right: 30px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" />
-<img align="left" alt="java" width="30px" style="padding right: 30px;"
+<img align="left" alt="java" width="20px" style="padding right: 30px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg" />
-<img align="left" alt="java" width="30px" style="padding right: 30px;"
+<img align="left" alt="java" width="20px" style="padding right: 30px;"
 src="https://www.citypng.com/public/uploads/preview/adobe-photoshop-white-square-logo-icon-png-701751694968304klbwqzmug3.png?v=2024092600"/>
 <br>
 #
