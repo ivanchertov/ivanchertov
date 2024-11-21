@@ -38,6 +38,7 @@ src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"/>
 <img align="left" alt="java" width="30px" style="padding right: 30px;"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Google_Sheets_2020_Logo.svg/800px-Google_Sheets_2020_Logo.svg.png"/>
+<img align="left" alt="java" width="30px" style="padding right: 30px;" src="https://static.vecteezy.com/system/resources/previews/039/202/122/non_2x/random-forest-algorithm-color-icon-illustration-vector.jpg"/>
 <img align="left" alt="java" width="40px" style="padding right: 30px;"
 src="https://mix-ready.com/cdn/shop/collections/Studio-One-Icon_1200x1200.png?v=1651330074" />
 <img align="left" alt="java" width="20px" style="padding right: 30px;"
@@ -48,7 +49,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premi
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg" />
 <img align="left" alt="java" width="20px" style="padding right: 30px;"
 src="https://www.citypng.com/public/uploads/preview/adobe-photoshop-white-square-logo-icon-png-701751694968304klbwqzmug3.png?v=2024092600"/>
-<img align="left" alt="java" width="20px" style="padding right: 30px;" src="https://static.vecteezy.com/system/resources/previews/039/202/122/non_2x/random-forest-algorithm-color-icon-illustration-vector.jpg"/>
+
 <br>
 #
 <br>
