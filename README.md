@@ -48,6 +48,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premi
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg" />
 <img align="left" alt="java" width="20px" style="padding right: 30px;"
 src="https://www.citypng.com/public/uploads/preview/adobe-photoshop-white-square-logo-icon-png-701751694968304klbwqzmug3.png?v=2024092600"/>
+<img align="left" alt="java" width="20px" style="padding right: 30px;" src="https://static.vecteezy.com/system/resources/previews/039/202/122/non_2x/random-forest-algorithm-color-icon-illustration-vector.jpg"/>
 <br>
 #
 <br>
